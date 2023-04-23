@@ -1,2 +1,3 @@
-# OpenCV-Training-Image-Thresholding
-Basic/Binary Image Thresholding using OpenCV
+# OpenCV Training Image Thresholding
+Global/Binary/Inverse Binary/Truncate/Threshold to Zero/Inverted Threshold Image using OpenCV.
+
