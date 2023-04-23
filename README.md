@@ -20,7 +20,7 @@ Thresholding therefore has numerous applications in computer vision, and is ofte
 |**cv2.THRESH_BINARY_INV**| Inverse-Binary Thresholding|
 |**cv2.THRESH_TRUNC**       |Truncate Thresholding|
 |**cv2.THRESH_TOZERO** | Threshold to Zero|
-|**cv2.THRESH_TOZERO_INV*|Inverted Threshold to Zero|
+|**cv2.THRESH_TOZERO_INV**|Inverted Threshold to Zero|
 
 ## Test Image used: 
 I have used threshold.png that can be found in the repository.
